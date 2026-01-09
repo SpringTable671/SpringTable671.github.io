@@ -14,10 +14,10 @@ body::before {
   z-index: 9999;
 
   background-image:
-    url("/mewhen.gif"),
+    url("/meforreal.gif"),
     url("/meforreal.gif"),
     url("/mewhen.gif"),
-    url("/meforreal.gif");
+    url("/mewhen.gif");
     
   background-repeat:
     repeat-x,
